@@ -147,7 +147,7 @@
             }
 
             .about {
-                background: #232323;
+                background: #232323;        
             }
 
             .about-cont {
@@ -157,6 +157,7 @@
             }
 
             .about-heading {
+                margin-top: 3rem;
                 margin-bottom: 9rem;
 
             }
@@ -181,6 +182,9 @@
 
             .sec-pad {
                 padding: 10rem 0;
+            }
+            .sec-pad-sm {
+                padding: 1rem 0;
             }
 
             .about-content-main {
@@ -258,6 +262,7 @@
             }
             .projects {
                 background: #000000;
+                box-shadow: 0 10px 100px rgba(255, 255, 255, 0.3);
             }
             .projects-heading-main {
                 display: block;
@@ -322,4 +327,48 @@
                 max-width: 60rem;
                 line-height: 1.7;
                 margin-bottom: 3rem;
+            }
+            .contact {
+                background: #232323;
+                box-shadow: 0 10px 100px rgba(255, 255, 255, 0.3);
+            }
+            .contact-cont {
+                max-width: 120rem;
+                margin: auto;
+                width: 92%;
+            }
+            .footer {
+                background: #000000;
+                box-shadow: 0 10px 100px rgba(255, 255, 255, 0.3);
+            }
+            .footer-cont {
+                max-width: 120rem;
+                margin: auto;
+                width: 92%;
+            }
+            .footer-main {
+                display: flex;
+                justify-content: space-between;
+                padding: 8rem 0;
+            }
+            .footer-row-1 {
+                order: 2;
+            }
+            .footer-row-2 {
+                width: 40%;
+                order: 1;
+                max-width: 50rem;
+            }
+            .footer-heading {
+                font-size: 2.2rem;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                color: #fff;
+            }
+            .footer-social {
+                margin-top: 2rem
+            }
+            .footer-icon {
+                margin-right: 1rem;
+                width: 2.5rem
             }
