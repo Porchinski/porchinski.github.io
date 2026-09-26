@@ -372,3 +372,26 @@
                 margin-right: 1rem;
                 width: 2.5rem
             }
+            .projects-info-main-heading {
+                font-size: 4.5rem;
+                text-transform: uppercase;
+                letter-spacing: 3px;
+                text-align: center;
+            }
+            .projects-info-sub-heading {
+                display: block;
+                text-align: center;
+                color: #fff;
+                font-size: 3rem;
+                font-weight: 500;
+                max-width: 80rem;
+                margin: auto;
+                line-height: 1.6;
+            }
+            .projects-info-para {
+                color: #fff;
+                font-size: 2rem;
+                text-align: center;
+                width: 100%;
+                line-height: 1.6;
+            }
