@@ -366,11 +366,11 @@
                 color: #fff;
             }
             .footer-social {
-                margin-top: 2rem
+                margin-top: 2rem;
             }
             .footer-icon {
                 margin-right: 1rem;
-                width: 2.5rem
+                width: 2.5rem;
             }
             .projects-info-main-heading {
                 font-size: 4.5rem;
@@ -403,5 +403,20 @@
             }
             .project-os-icon {
                 margin-right: 1rem;
-                width: 2.5rem
+                width: 3.5rem;
+                align-content: center;
+            }
+            .project-skill {
+                padding: 1rem 2rem;
+                margin-bottom: 1.5rem;
+                margin-right: 1.5rem;
+                font-size: 1.6rem;
+                background: rgba(255, 255, 255, 0.76);
+                border-radius: 5px;
+                font-weight: 600;
+                color: #000000;
+            }
+            .project-skills {
+                display: flex;
+                flex-wrap: wrap;
             }
