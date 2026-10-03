@@ -301,7 +301,8 @@
                 overflow: hidden;
             }
             .projects-row-img {
-                padding-top: 8rem;
+                padding-top: 2rem;
+                padding-bottom: 2rem;
                 width: 100%;
                 display: block;
                 -o-object-fit: cover;
