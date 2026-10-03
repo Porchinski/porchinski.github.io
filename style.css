@@ -401,3 +401,7 @@
                 margin-bottom: 3rem;
                 text-align: right;
             }
+            .project-os-icon {
+                margin-right: 1rem;
+                width: 2.5rem
+            }
